@@ -1,11 +1,11 @@
 # Evidências visuais
 
-Esta pasta reúne os registros do processo de Vibe Coding da Finora.
+Esta pasta reúne os registros do processo de Vibe Coding e dos testes funcionais da Finora.
 
-Arquivos esperados:
+## Arquivos
 
-1. `d8d95cf6-a210-461c-b412-5827c9e7d9bb.png` — funcionalidades prioritárias e fluxo do MVP;
-2. `d9352c7d-c3f2-4b95-a687-18e89f3b2e2f.png` — comportamento do agente financeiro;
-3. `ea8449f7-488c-49a1-a764-d3589025294b.png` — recursos e plano de validação;
-4. `f7ef5979-6482-4fe1-930b-db614ef84aa9.png` — desenvolvimento e autenticação no Lovable;
-5. `99cb8d29-9e52-4153-ab04-d140ef8d0e29.png` — teste funcional do resumo e da dica financeira.
+1. `f7ef5979-6482-4fe1-930b-db614ef84aa9.png` — construção da autenticação no Lovable;
+2. `6ffe697f-422f-4502-8bec-c891fe869ced.png` — teste dos registros de entrada e despesa;
+3. `99cb8d29-9e52-4153-ab04-d140ef8d0e29.png` — resumo mensal e dica personalizada.
+
+Essas imagens são apresentadas na seção **Evidências do processo** do [README principal](../README.md).
