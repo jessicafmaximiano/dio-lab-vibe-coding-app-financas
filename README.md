@@ -162,17 +162,27 @@ Além do PRD principal, utilizei instruções menores e específicas:
 
 ## 🖼️ Evidências do processo
 
-Durante o desenvolvimento, foram registrados:
+### Planejamento das funcionalidades e fluxo do MVP
 
-- planejamento das cinco funcionalidades prioritárias;
-- fluxo conceitual das telas;
-- comportamento do agente financeiro;
-- recursos técnicos e plano de validação;
-- construção da autenticação no Lovable;
-- testes do chat com entrada, despesa e resumo mensal;
-- geração de dica personalizada a partir dos registros.
+![Planejamento do MVP](./evidencias/d8d95cf6-a210-461c-b412-5827c9e7d9bb.png)
 
-Os testes funcionais podem ser reproduzidos na [aplicação publicada](https://finora-chat-finance.lovable.app).
+### Comportamento do agente financeiro
+
+![Comportamento do agente](./evidencias/d9352c7d-c3f2-4b95-a687-18e89f3b2e2f.png)
+
+### Recursos e plano de validação
+
+![Plano de validação](./evidencias/ea8449f7-488c-49a1-a764-d3589025294b.png)
+
+### Construção da autenticação no Lovable
+
+![Construção no Lovable](./evidencias/f7ef5979-6482-4fe1-930b-db614ef84aa9.png)
+
+### Teste funcional da Finora
+
+![Resumo e dica personalizada](./evidencias/99cb8d29-9e52-4153-ab04-d140ef8d0e29.png)
+
+Os testes podem ser reproduzidos na [aplicação publicada](https://finora-chat-finance.lovable.app).
 
 ## ✅ Testes realizados
 
